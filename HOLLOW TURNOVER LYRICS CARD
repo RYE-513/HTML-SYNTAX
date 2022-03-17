@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> HOLLOW LYRICS CARD </title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body style = "background-color: lightblue">
+  <center>
+	<h1> HOLLOW</h1>
+	<h2><i> TURNOVER </h2><i>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyBeKLTZK-HdIB-guU3xBmQS_U-R6s3-LotA&usqp=CAU.jpg" 
+	width = "180"
+	height = "180" />
+	<p style = "text-align:center; font-family:Times New Roman; text-decoration:underline"><i> "In my head I know my face, but I havent shown it for so long now, that I might now know how. Every day Im someone else, someone 
+different, but I swear that you could never tell that Im hollow" <i/></p>
+</center>
+</body>
+</html>
