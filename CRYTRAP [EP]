@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Basic HTML Layout Example </title>
+</head>
+<body style = background-color:lightblue>
+   <header>
+      <nav>
+         <p style="float: right; font-family:Comic Sans MS;">
+            <a href="#"> Home </a> |
+            <a href="#"> About </a> |
+            <a href="#"> Contact Us </a> |
+            <a href="#"> Terms of Services </a> |
+            <a href="#"> Privacy Policy </a>
+         </p>
+      </nav>
+   </header>
+   <br />
+   <hr />
+   <main>
+   	  <br />
+      <h1 align = center> Ｖｅｎｕｓ Ｃｒｙｔｒａｐ </h1>
+      <h2 align = center> ᴄʀʏᴛʀᴀᴘ [ᴇᴘ] </h2>
+      <center>
+      <img  src=https://cdn.discordapp.com/attachments/948968258114052126/954670055130538025/received_758914968126646.jpeg width="300x" height="300px"/>
+      
+       <p style = "font-size:12px; text-decoration:underline"> 𝙎𝙃𝙊𝙀𝙂𝘼𝙕𝙀 | 𝙋𝙊𝙎𝙏-𝙋𝙐𝙉𝙆 </p>
+       <hr style="width: 50%" color="black" />
+       <p style = "font-size:14px; font-family:Comic Sans MS; font-weight:bold;"> TRACKLIST </p>
+       <hr style="width: 50%" color="black" />
+       <p style = "font-size:14px; font-family:Comic Sans MS"> 1. Hopeless Romantic </p>
+       <p style = "font-size:14px; font-family:Comic Sans MS"> 2. Silang </p>
+       <p style = "font-size:14px; font-family:Comic Sans MS"> 3. Birthday Chant </p>
+       <p style = "font-size:14px; font-family:Comic Sans MS"> 4. Goodnight </p>
+       <p style = "font-size:14px; font-family:Comic Sans MS"> 5. Supressor </p>
+       <p style = "font-size:14px; font-family:Comic Sans MS"> 6. Voices </p>
+ 
+       <hr style="width: 50%" color="black" />
+   <footer>
+   <br />
+       <div style="background-color: lightyellow">
+       <hr style="height: 20px" color="teal" />
+    <p style="color: #008080; font-size:15px; font-family:verdana;"> © Made By RYE | All Rights Reserved 2022 </p>
+    <hr style="height: 20px" color="teal" />
+   </footer>
+   </center>
+</body>
+</html>
