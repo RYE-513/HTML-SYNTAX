@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <!-- with a line break -->
+   I am a text.<br />
+   I am a text!<br />
+   I am another text.<br />
+   
+   <!-- without a line break -->
+   I am another text.
+   I am a text!
+   I am another text.
+
+   <hr style="width: 50%" color="black" />
+   <hr style="height: 40px" color="black" />
+   <hr color="gold" />
+</body>
+</html>
