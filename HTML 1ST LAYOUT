@@ -1,79 +1,40 @@
 <!DOCTYPE html>
-
 <html>
-
 <head>
-
    <title> Basic HTML Layout Example </title>
-
 </head>
-
 <body style = background-color:lightblue>
-
 <center>
-
    <header>
-
       <nav>
-
          <h1> HTML RYE 1ST LAYOUT </h1>
-
          <p style="float: right">
-
             <a href="#"> Home </a> |
-
             <a href="#"> About </a> |
-
             <a href="#"> Contact Us </a> |
-
             <a href="#"> Terms of Services </a> |
-
             <a href="#"> Privacy Policy </a>
-
          </p>
-
       </nav>
-
    </header>
-
    <br />
-
    <hr />
-
    <main>
-
       <h1 align = "center"> Лучшее из Т͜͡у͜͡р͜͡н͜͡о͜͡в͜͡е͜͡Р͜͡ </h1>
-
       <h2 align = "center"> ••• best of turnover ••• </h2>
-
       <h2 style = "font-family:Times New Roman"> TRACKLIST </h2>
-
       <p> Genre: Indie Rock, Dream Pop </p>
-
       <p> Record Label: Run For Records </p>
-
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUEloFoSW-c2MvW_1aMMEDdirXYHGUVnrSXA&usqp=CAU" style="float:center" width="800x" height="500px" />
-
        <p style = "font-size:14px; font-family:Times New Roman"> 1. Hollow </p>
-
        <p style = "font-size:14px; font-family:Times New Roman"> 2. Like Slow Disappearing </p>
-
        <p style = "font-size:14px; font-family:Times New Roman"> 3. Humming </p>
-
        <p style = "font-size:14px; font-family:Times New Roman"> 4. New Scream</p>
-
        <p style = "font-size:14px; font-family:Times New Roman"> 5. Humblest Pleasures </p>
-
        <p style = "font-size:14px; font-family:Times New Roman"> 6. Hello Euphoria </p>
-
    <footer>
-
       <h2 style = "font-size:12px"> © Made By RYE | All Rights Reserved 2022 </h2>
-
    </footer>
-
 </center>
-
 </body>
-
 </html>
