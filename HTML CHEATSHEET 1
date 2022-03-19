@@ -1,90 +1,56 @@
 <!DOCTYPE html>
 
 <html lang = 'en-US'>
-
 <head>
-
     <title> RYE WEBSITE </title>
-
     <style type = 'text/css'>
-
            p {
-
              background-color: pink
-
              font-size:100px;
-
             }
-
     </style>
-
 </head>
-
 <body>
-
 <center>
-
+    <a href="https://www.wikipedia.org" target="_blank"> Wikipedia </a>
     <a href = "http://www.github.com"> GitHub Link </a>
-
     <a href = "http://www.github.com" title = "TOOTLTIP"> GitHub Title </a>
-
     <h1> HEADLINE L1 </h1>
-
     <h2> HEADLINE L2 </h2>
-
     <h3> HEADLINE L3 </h3>
-
     <h1><i> NESTED HEADLINE ITALIC </i></h>
-
     <p> plain paragraph </p>
-
+    <p style = "font-weight:bold;"> bold </p>
     <p style = "font-size:40px; color:green"> attributes size color font </p>
-
     <p style = "background-color:yellow"> PARAGRAPH BGC TEXT YELLOW </p>
-
     <p style = "color:green"> COLOR GREEN </p>
-
     <p style = "font-family: Times New Roman"> TIMES NEW ROMAN </p>
-
     <p style = "text-align:center"> CENTER </p>
-
     <p style = "text-align:left"> LEFT </p>
-
     <p style = "text-align:right"> RIGHT </p>
-
     <p style = "text-decoration:underline"> underlined </p>
-
     <div style="background-color: grey">
-
     <p style="color: #008080;"> We are Teal </p>
-
     <p style="color: rgb(0, 128, 128);"> We are Teal </p>
-
+    <span> this is span, connecting in previous format or in one line <span>
 </center>
-
 </body>
-
 </html>
+
 
 <!-- 
 
 background-color : blue
-
 - background-color is property
-
 - : this colon is separator
-
 - blue is value
 
 in styling a color no need to put semi-colon ';' at the end
 
 1. if you add background color at body e.g. <body style = "background-color:blue">
-
 the p style colors will be unable to show
 
 2. some attributes are not working e.g.
-
 <p style = "font-size:40px; color:green font-family = Times New Roman">
 
 -->
-
