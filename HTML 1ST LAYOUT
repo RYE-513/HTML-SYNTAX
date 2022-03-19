@@ -4,11 +4,9 @@
    <title> Basic HTML Layout Example </title>
 </head>
 <body style = background-color:lightblue>
-<center>
    <header>
       <nav>
-         <h1> HTML RYE 1ST LAYOUT </h1>
-         <p style="float: right">
+         <p style="float: right; font-family:Comic Sans MS;">
             <a href="#"> Home </a> |
             <a href="#"> About </a> |
             <a href="#"> Contact Us </a> |
@@ -20,21 +18,33 @@
    <br />
    <hr />
    <main>
-      <h1 align = "center"> Лучшее из Т͜͡у͜͡р͜͡н͜͡о͜͡в͜͡е͜͡Р͜͡ </h1>
-      <h2 align = "center"> ••• best of turnover ••• </h2>
-      <h2 style = "font-family:Times New Roman"> TRACKLIST </h2>
-      <p> Genre: Indie Rock, Dream Pop </p>
-      <p> Record Label: Run For Records </p>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUEloFoSW-c2MvW_1aMMEDdirXYHGUVnrSXA&usqp=CAU" style="float:center" width="800x" height="500px" />
-       <p style = "font-size:14px; font-family:Times New Roman"> 1. Hollow </p>
-       <p style = "font-size:14px; font-family:Times New Roman"> 2. Like Slow Disappearing </p>
-       <p style = "font-size:14px; font-family:Times New Roman"> 3. Humming </p>
-       <p style = "font-size:14px; font-family:Times New Roman"> 4. New Scream</p>
-       <p style = "font-size:14px; font-family:Times New Roman"> 5. Humblest Pleasures </p>
-       <p style = "font-size:14px; font-family:Times New Roman"> 6. Hello Euphoria </p>
+   	  <br />
+      <h1 align = center> ⓈⓊⓂⓂⒺⓇ. ⒽⓊⓂⓄⓊⓇ. ⓎⓄⓊ ⓀⓃⓄⓌ. </h1>
+      <h2 align = center> 𝙒𝙞𝙨𝙝 𝙈𝙚 𝙇𝙪𝙘𝙠 (𝙀𝙋) </h2>
+      <hr color="teal" />
+      <center>
+      <img  src="https://cdn.discordapp.com/attachments/948968258114052126/954635978633543690/1647673318617.jpeg" width="300x" height="300px"/>
+      
+       <p style = "font-size:14px; font-family:Comic Sans MS; text-decoration:underline"><i> MATH ROCK | DREAM POP | POST-ROCK </p></i>
+       <hr style="width: 50%" color="black" />
+       <p style = "font-size:14px; font-family:Comic Sans MS; font-weight:bold;"> TRACKLIST </p>
+       <p style = "font-size:14px; font-family:Comic Sans MS"> 1. Apollos Eyes </p>
+       <p style = "font-size:14px; font-family:Comic Sans MS"> 2. You're a ten kirk </p>
+       <p style = "font-size:14px; font-family:Comic Sans MS; color:teal; background-color:lightyellow"> 3. The quick brown fox jump over the lazy cat </p>
+       <p style = "font-size:14px; font-family:Comic Sans MS"> 4. id est</p>
+       <p style = "font-size:14px; font-family:Comic Sans MS"> 5. Box Hoarder </p>
+       <p style = "font-size:14px; font-family:Comic Sans MS"> 6. De Facto </p>
+       <p style = "font-size:14px; font-family:Comic Sans MS"> 7. Propofol </p>
+       <p style = "font-size:14px; font-family:Comic Sans MS"> 8. i hope darkhan is closer to dapitan </p>
+       <hr style="width: 50" color="black" />
    <footer>
-      <h2 style = "font-size:12px"> © Made By RYE | All Rights Reserved 2022 </h2>
+   <br />
+       <div style="background-color: lightyellow">
+       <hr style="height: 30px" color="teal" />
+    <p style="color: #008080; font-size:15px; font-family:verdana;"> © Made By RYE | All Rights Reserved 2022 </p>
+    <span><p style="color: rgb(0, 128, 128);"> RGB TEAL SPAN </p><span>
+    <hr style="height: 30px" color="teal" />
    </footer>
-</center>
+   </center>
 </body>
 </html>
