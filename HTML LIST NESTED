@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <!-- Unordered List -->
+   <p> UNORDERED LIST </p>
+   <ul>
+      <li> JOHN </li>
+      <li> RYE </li>
+      <li> BSCS </li>
+   </ul>
+   
+   <!-- Ordered List -->
+   <p> ORDERED LIST </p>
+   <ol>
+      <li> JOHN </li>
+      <li> RYE </li>
+      <li> BSCS </li>
+   </ol>
+<br />
+<ul>
+      <li> General Data </li>
+      <li>
+         <!-- We put another list inside an <li> element. -->
+         <ul>
+            <li> Specific Data </li>
+            <li> Specific Data </li>
+            <li> Specific Data </li>
+         </ul>
+      </li>
+      <li> General Data </li>
+      <li>
+         <ol>
+            <li> Specific Data </li>
+            <li> Specific Data </li>
+            <li> Specific Data </li>
+         </ol>
+      </li>
+   <ul/>
+<dl>
+      <dt> A. dog </dt>
+      <dd> • a domisticated meat-eating mammal. </dd>
+       
+      <dt> B. cat </dt>
+      <dd> • a small furry mammal kept as a pet. </dd>
+       
+      <dt> C. mouse </dt>
+      <dd> • a small rodent with a long tail. </dd> 
+   </dl>
+
+</body>
+</html>
