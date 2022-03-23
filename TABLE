@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <table>
+      <thead>
+         <tr>
+            <th> First Name </th>
+            <th> Last Name </th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td> Juan </td>
+            <td> Dela Cruz </td>
+         </tr>
+      </tbody>
+      <tfoot>
+         <tr>
+            <td> Footer </td>
+            <td> Footer </td>
+         </tr>
+      </tfoot>
+   </table>
+</body>
+</html>
