@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <table style="background-color: black; width: 80%; margin: 0 auto; border: 8px solid black">
+   <!-- The "margin: 0 auto" style aligns the table to the center -->
+   	<colgroup>
+   	    <col style="background-color: lightblue">
+   	    <col style="background-color: gold">
+   	    <col style="background-color: pink">
+            <col style="background-color: lightblue">
+   	</colgroup>
+   	<thead>
+   	    <tr>
+   	    	<th> NAME </th>
+   	    	<th> COURSE </th>
+   	    	<th> NICKNAME </th>
+                <th> NATIONALITY </th>
+   	    </tr>
+   	</thead>
+   	<tbody>
+   	    <tr>
+   	        <td> John Ryan </td>
+   	        <td> BSCS </td>
+   	        <td> RYE </td>
+                <td> RUSSIAN </td>
+   	    </tr>
+   	    <tr>
+   	        <td> ABRAHAM LINCOLN </td>
+   	        <td> BSCS </td>
+   	        <td> ABRAHAM </td>
+                <td> RUSSIAN </td>
+   	    </tr>
+            <tr>
+                <td> ABRAHAM LINCOLN </td>
+   	        <td> BSCS </td>
+   	        <td> ABRAHAM </td>
+                <td> RUSSIAN </td>
+   	    </tr>
+                
+   	</tbody>
+   </table>
+</body>
+</html>
