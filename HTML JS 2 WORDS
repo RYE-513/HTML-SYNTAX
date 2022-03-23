@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <p id="sample"> Hello World! </p> 
+   <button onclick="changeContent();"> Change Content </button>
+   
+   <script type="text/javascript">
+       function changeContent() {
+   	    document.getElementById("sample").innerHTML = "Lorem ipsum dolor sit amet.";
+       }
+   </script>
+</body>
+</html>
