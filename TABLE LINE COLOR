@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+   <style type="text/css">   
+       table, td {
+          border: 5px solid lightblue;
+          /* cell spacing */
+          border-spacing: 10px;
+       }
+       td {
+          /* cell padding */
+          padding: 1px;
+       }
+   </style>
+</head>
+<body>   
+   <table>
+      <thead>
+         <tr>
+            <th> First Name </th>
+            <th> Last Name </th>
+            <th> Nationality </th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td> John </td>
+            <td> Doe </td>
+            <td> American </td>
+         </tr>
+         <tr>
+            <td> Juan </td>
+            <td> Dela Cruz </td>
+            <td> Filipino </td>
+         </tr>
+      </tbody>
+   </table>
+</body>
+</html>
