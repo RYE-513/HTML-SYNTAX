@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <p> The input below only allows a minimum of five characters. Try to type a single character then click the "Submit" button. </p>
+   <form action="sample-page-handler.html">
+       <input type="text" minlength="5" />
+       <input type="submit" />
+   </form>
+</body>
+</html>

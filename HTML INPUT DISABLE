@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <input type="text" value="I am disabled." disabled />
+   <textarea disabled> I am disabled. </textarea>
+   <select disabled>
+       <option value="Option 1"> Option 1 </option>
+       <option value="Option 2"> Option 2 </option>
+   </select>
+</body>
+</html>

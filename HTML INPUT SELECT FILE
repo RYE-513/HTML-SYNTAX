@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <p> The user can now select multiple files (selecting multiple files in a single input may not be possible on some android devices). </p>
+   <input type="file" multiple />
+</body>
+</html>

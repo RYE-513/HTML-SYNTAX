@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <p> Try submitting the form below without filling up the text field. </p>
+   <form action="sample-page-handler.html">
+   	  <input type="text" required />
+   	  <input type="submit" />
+   </form>
+</body>
+</html>

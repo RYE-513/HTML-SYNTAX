@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <label> 
+       The sentences value: 
+       <input type="text" autocapitalize="sentences" />
+   </label>
+   <br />
+   <label> 
+       The words value: 
+       <input type="text" autocapitalize="words" />
+   </label>
+   <br />
+   <label> 
+       The characters value: 
+       <input type="text" autocapitalize="characters" />
+   </label>
+   <br />
+   <label> 
+       Turning autocapitalize off: 
+       <input type="text" autocapitalize="off" /> 
+   </label>
+</body>
+</html>

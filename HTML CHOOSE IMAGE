@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <input type="file" id="demo" onchange="readFile();" />
+   <!-- you should pick an image file for this demo to work -->
+   <img src="" alt="The image file will be shown here." id="result" />
+   
+   <script type="text/javascript">
+      function readFile() {
+         var reader = new FileReader();
+         var file = document.getElementById('demo').files[0];
+   
+         reader.onload = function(e) {
+            document.getElementById('result').src = e.target.result;
+         }
+   
+         reader.readAsDataURL(file);
+      }
+   </script>
+</body>
+</html>

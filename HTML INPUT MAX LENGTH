@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <label>
+       The input below only allows a maximum of five characters. Try to type "loremipsum" (without space) then press the space button. 
+       <input type="text" maxlength="5" />
+   </label>
+</body>
+</html>

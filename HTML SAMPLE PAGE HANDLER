@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+<style type="text/css">   
+       label {
+       	border: 1px inset #0076ff;
+       	border-radius: 5px;
+       	background: #428bca;
+       	color: #fff;
+       	padding-left: 4px;
+       	padding-right: 4px;
+       	margin-right: 3px;
+       }
+   </style>
+</head>
+<body>
+   <form action="sample-page-handler.html" method="GET">
+       <input type="text" name="fullname" placeholder="Full Name" /> <br />
+       <input type="text" name="age" placeholder="Age" /> <br />
+       <input type="text" name="favourite_food" placeholder="Favorite Food" /> <br />
+       <input type="text" name="hobby" placeholder="Hobby" /> <br />
+       <input type="submit" />
+   </form>
+<br />
+<label for="demo"> I am a label: </label>
+   <input type="text" id="demo" />
+</body>
+</html>

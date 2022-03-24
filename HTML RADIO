@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <input type="radio" name="gender" value="Male" id="male" />
+   <label for="male"> Male </label>
+   <br />
+   <input type="radio" name="gender" value="Female" id="female" />
+   <label for="female"> Female </label>
+   <br />
+   <button onclick="getValue()"> Get Value </button>
+   
+   <script type="text/javascript">
+      function getValue() {
+         var radios = document.getElementsByName('gender');
+         var number_of_radios = radios.length;
+   
+         for(var i = 0; i < number_of_radios; i++) {
+            if(radios[i].checked) {
+               alert(radios[i].value);
+            }
+         }
+      }
+   </script>
+</body>
+</html>

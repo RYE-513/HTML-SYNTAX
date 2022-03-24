@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <input type="text" value="I can only be read and selected but not be modified." readonly />
+   <textarea readonly> I can only be read and selected but not be modified. </textarea>
+</body>
+</html>

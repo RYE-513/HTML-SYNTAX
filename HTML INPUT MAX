@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <form action="sample-page-handler.html">
+       <input type="date" max="1999-12-31" />
+       <input type="number" max="5" />
+       <input type="submit" />
+   </form>
+</body>
+</html>

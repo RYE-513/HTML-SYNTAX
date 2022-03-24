@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <input type="tel" id="demo" />
+   <br />
+   <button onclick="getValue()"> Get Value </button>
+   
+   <script type="text/javascript">
+       function getValue() {
+           alert(document.getElementById('demo').value);
+       }
+   </script>
+</body>
+</html>
