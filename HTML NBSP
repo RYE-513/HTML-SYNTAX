@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <!-- only a single space will be rendered by the browser -->
+   <p> They are so          far away. </p>
+   <!-- all ten spaces will be rendered by the browser -->
+   <p> They are so&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;far away. </p>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <!-- figure without a caption -->
+   <figure>
+       <img src="example.jpg" />
+   </figure>
+   <!-- figure with a caption -->
+   <figure>
+       <img src="example.jpg" />
+       <figcaption> Figure 1.1 Example Image </figcaption>
+   </figure>
+</body>
+</html>

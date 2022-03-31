@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <!-- solving a mathematical equation -->
+   <p> = (x + 2) (x<sup>2</sup> + 3) </p>
+   <p> = x<sup>3</sup> + 3x + 2x<sup>2</sup> + 6 </p>
+   <p> = x<sup>3</sup> + 2x<sup>2</sup> + 3x + 6 </p>
+</body>
+</html>

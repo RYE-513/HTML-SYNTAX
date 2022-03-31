@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   My
+   name
+   is
+   my
+   name.
+   <!-- the text above will be rendered on a single line -->
+   <pre>
+       My 
+       name
+       is
+       my
+       name.
+   </pre>
+   <!-- the text above will be rendered the way it is written on our code -->
+</body>
+</html>

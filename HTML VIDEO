@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <video src="video.mp4" width="480" height="320" autoplay> Sorry your browser does not support embedding videos. </video>
+   <video src="video.mp4" width="480" height="320" controls> Sorry your browser does not support embedding videos. </video>
+   <video src="video.mp4" width="480" height="320" autoplay loops> Sorry your browser does not support embedding videos. </video>
+   <video src="video.mp4" width="480" height="320" controls muted> Sorry your browser does not support embedding videos. </video>
+</body>
+</html>

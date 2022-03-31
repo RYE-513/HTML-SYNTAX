@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <p> Instead of redirecting the current page to the action page the form will just be submitted to the iframe. </p>
+   <form action="sample-page-handler.html" target="demo">
+       <!-- form elements go here -->
+       <input type="submit" />
+   </form>
+   <iframe name="demo" height="300" width="400"></iframe>
+</body>
+</html>

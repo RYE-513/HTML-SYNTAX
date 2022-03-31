@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <form action="sample-page-handler.html">
+       <label>
+           Name:
+           <input type="text" />
+       </label>
+       <br />
+       <label>
+           Hobby:
+           <input type="text" />
+       </label>
+       <br />
+       <button type="reset"> Reset Values </button>
+       <button type="submit"> Submit </button>
+   </form>
+</body>
+</html>

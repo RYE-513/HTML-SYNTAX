@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <blockquote cite="https://www.goalcast.com/2017/12/07/27-bill-gates-quotes/">
+      If all my bridge coach ever told me was that I was 'satisfactory', I would have no hope of ever getting better. How would I know who was the best? How would I know what I was doing differently?
+   </blockquote>
+   <cite style="float: right;"> - Bill Gates </cite>
+   <!-- we have used the CSS property float to put the cite element on the right side -->
+</body>
+</html>

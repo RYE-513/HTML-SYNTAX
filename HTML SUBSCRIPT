@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <!-- solving a chemical equation -->
+   <p> N<sub>2</sub> + H<sub>2</sub> &rarr; NH<sub>3</sub></p>
+   <p> N<sub>2</sub> + H<sub>2</sub> &rarr; 2NH<sub>3</sub></p>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <form action="sample-page-handler.html">
+       <input type="text" />
+       <button> Submit </button>
+       <!-- you can prevent the form to be submitted when the button is clicked by specifying the type="button" attribute -->
+   </form>
+</body>
+</html>
