@@ -1,0 +1,27 @@
+___
+HTML
+
+• Hypertext Markup Language
+-- describe the structure of web pages
+-- HTML5 is the fifth and comment version of the HTML standard
+-- build websites
+
+<!DOCTYPE html>
+<html>
+<head>
+     <title> RYE BSCS </title>
+</head>
+<body>
+   <h1> THIS IS A HEADING </h1>
+   <p> THIS IS A PARAGRAPH </p>
+</body>
+</html>
+
+• <!DOCTYPE html> : document type which is HTML5
+• <html> : enclose everything inside of html include tags, elements, style sheets, scripts, text, multimedia etc.
+• <head> : enclose metadata of a docs not displayed on main context of a web pages include style sheets, scripts.
+<title>, <meta> etc.
+
+• <title> : title of a webpage, upper part of browser
+• <body> : enclose elements like <h1>, <p>, <img>
+___
